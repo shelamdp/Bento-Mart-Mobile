@@ -1,0 +1,390 @@
+{
+  "Items": [
+    {
+      "name": "Blackpaper Miso Chciken",
+      "description": "Boneless Roast Chicken Seasoned with Blackpepper & Miso sauce",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/0f1f31f982dd01ebaa05ea6adbd645c7-1660011179927",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Takoyaki Mentai",
+      "description": "TAKOYAKI MENTAI!",
+      "price": "40000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/11e69861fb6df614e49084de791f98d9-1660020910152",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Hot Spicy Chicken Teriyaki",
+      "description": "Boneless chicken meat cooked with onion slices and HokBen typical teriyaki sauce with spicy flavor.",
+      "price": "38000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/25af18d605682a9ee5964cbf8ffb6fd2-1660021204262",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Hot Spicy Beef Teriyaki",
+      "description": "Boneless chicken meat cooked with onion slices and HokBen typical teriyaki sauce with spicy flavor.",
+      "price": "48000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/47cd75c78f10532d126d89a6571f73db-1660021258558",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Chciken Teriyaki",
+      "description": "Boneless chicken meat and slices of onion cooked with HokBen special teriyaki sauce.",
+      "price": "33000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de7bcaab4fcc8728656353b8b8c50830-1660021526361",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Beef Teriyaki",
+      "description": "Premium beef, slices of onion and cooked with HokBen special teriyaki sauce.",
+      "price": "43000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/51f6922339800d6e46b57f24c626f3ac-1660021687342",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Chicken Yakiniku",
+      "description": "Boneless chicken meat and slices of onion cooked with HokBen special yakiniku sauce.",
+      "price": "33000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/8d112e20d809be482ef4e02d946537a9-1660021821926",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Beef Yakiniku",
+      "description": "Premium beef, slices of onion and green paprika cooked with HokBen special yakiniku sauce.",
+      "price": "43000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/34f61fd789c80b8cf815e8eac4a6ee8e-1660021724105",
+      "authorId": 1,
+      "categoryId": 1,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Ogura",
+      "description": "Special dessert made of red beans served with simple syrup, coconut milk and shaved ice.",
+      "price": "14000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ad89d4f03722bd1adb15e6a6e2d044b5-1660030681385",
+      "authorId": 1,
+      "categoryId": 2,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Pudding Coklat",
+      "description": "Pudding rasa coklat.",
+      "price": "21000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/85d3982312f46a43b9216119c0b76a80-1660030535279",
+      "authorId": 1,
+      "categoryId": 2,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Es Merah Delima",
+      "description": "Es serut dengan topping buah delima",
+      "price": "20000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ae5b2742e57bfb0e332dbc25f1e9dc4d-1662429556587",
+      "authorId": 1,
+      "categoryId": 2,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Soft Pudding Bubblegum",
+      "description": "A pudding with a soft texture with a Bubble Gum aroma and flavor",
+      "price": "19000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/b6cad3e9e7e0a7f25d055e47c7220a8d-1660030453581",
+      "authorId": 1,
+      "categoryId": 2,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Cold Ocha",
+      "description": "Cold and fresh Japanese green tea.",
+      "price": "10000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de519de6a1ccc02b5af54ad3959e2013-1660032100269",
+      "authorId": 1,
+      "categoryId": 3,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Coca Cola",
+      "description": "Coca Cola ",
+      "price": "12000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/cf4eaae061e8720102b76a722cf56ce7-1660032291118",
+      "authorId": 1,
+      "categoryId": 3,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Aqua",
+      "description": "Mineral Water",
+      "price": "9000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/255f1b952b2c4d5566ade29c3460b3ba-1660032399418",
+      "authorId": 1,
+      "categoryId": 3,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+    },
+    {
+      "name": "Salad",
+      "description": "pickles, shaved cabbage topped with HokBen's special mayonnaise inside cup.",
+      "price": "17000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d4e54aa120b07a697ad2c2482a098d05-1660031296824",
+      "authorId": 1,
+      "categoryId": 4,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+     
+    },
+    {
+      "name": "Rice",
+      "description": "Rice from Japan",
+      "price": "9000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/ccbaf95d68cb94999f727584415edf1a-1660031329504",
+      "authorId": 1,
+      "categoryId": 4,
+      "mongoId": "64b7f6a320c45e513886e7a2"
+     
+    }
+  ],
+  "Categories": [
+    {
+      "name": "Main Menu"
+    },
+    {
+      "name": "Desserts"
+    },
+    {
+      "name": "Drink"
+    },
+    {
+      "name": "Side Dish"
+    }
+  ],
+  "Ingredients": [
+    {
+      "name": "Blackpaper",
+      "itemId": 1
+    },
+    {
+      "name": "Miso",
+      "itemId": 1
+    },
+    {
+      "name": "Chicken",
+      "itemId": 1
+    },
+    {
+      "name": "Chicken",
+      "itemId": 3
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "itemId": 3
+    },
+    {
+      "name": "Spicy Sauce",
+      "itemId": 3
+    },
+    {
+      "name": "Flour",
+      "itemId": 2
+    },
+    {
+      "name": "Octopus",
+      "itemId": 2
+    },
+    {
+      "name": "Nori",
+      "itemId": 2
+    },
+    {
+      "name": "Beef",
+      "itemId": 4
+    },
+    {
+      "name": "Hot Sauce",
+      "itemId": 4
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "itemId": 4
+    },
+    {
+      "name": "Beef",
+      "itemId": 6
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "itemId": 6
+    },
+    {
+      "name": "Salad",
+      "itemId": 6
+    },
+    {
+      "name": "Chicken",
+      "itemId": 5
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "itemId": 5
+    },
+    {
+      "name": "Salad",
+      "itemId": 5
+    },
+    {
+      "name": "Chicken",
+      "itemId": 7
+    },
+    {
+      "name": "Yakiniku Sauce",
+      "itemId": 7
+    },
+    {
+      "name": "Salad",
+      "itemId": 7
+    },
+    {
+      "name": "Beef",
+      "itemId": 8
+    },
+    {
+      "name": "Yakiniku Sauce",
+      "itemId": 8
+    },
+    {
+      "name": "Salad",
+      "itemId": 8
+    },
+    {
+      "name": "Ice",
+      "itemId": 9
+    },
+    {
+      "name": "Red Bean",
+      "itemId": 9
+    },
+    {
+      "name": "Syrup",
+      "itemId": 9
+    },
+    {
+      "name": "Milk",
+      "itemId": 10
+    },
+    {
+      "name": "Water",
+      "itemId": 10
+    },
+    {
+      "name": "Chocolate",
+      "itemId": 10
+    },
+    {
+      "name": "Ice",
+      "itemId": 11
+    },
+    {
+      "name": "Syrup",
+      "itemId": 11
+    },
+    {
+      "name": "Pomegranate",
+      "itemId": 11
+    },
+    {
+      "name": "Milk",
+      "itemId": 12
+    },
+    {
+      "name": "Water",
+      "itemId": 12
+    },
+    {
+      "name": "Syrup",
+      "itemId": 12
+    },
+    {
+      "name": "Ice",
+      "itemId": 13
+    },
+    {
+      "name": "Ocha",
+      "itemId": 13
+    },
+    {
+      "name": "Water",
+      "itemId": 13
+    },
+    {
+      "name": "Sugar",
+      "itemId": 14
+    },
+    {
+      "name": "Water",
+      "itemId": 14
+    },
+    {
+      "name": "Soda",
+      "itemId": 14
+    },
+    {
+      "name": "Water",
+      "itemId": 15
+    },
+    {
+      "name": "Ice",
+      "itemId": 15
+    },
+    {
+      "name": "Hot",
+      "itemId": 15
+    },
+    {
+      "name": "Carrot",
+      "itemId": 16
+    },
+    {
+      "name": "Mayonnaise",
+      "itemId": 16
+    },
+    {
+      "name": "Cabbage",
+      "itemId": 16
+    },
+    {
+      "name": "Rice",
+      "itemId": 17
+    },
+    {
+      "name": "rice",
+      "itemId": 17
+    },
+    {
+      "name": "RICE",
+      "itemId": 17
+    }
+    
+    
+  ],
+  "Users": [
+    {
+      "name": "Shela",
+      "email": "shela@mail.com",
+      "password": "12345",
+      "phoneNumber": "12917283020",
+      "address": "Suite 42"
+    }
+  ]
+}

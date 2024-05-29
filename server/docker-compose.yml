@@ -1,0 +1,25 @@
+services:
+    app-services:
+        image: app-services
+        build: ./services/app
+        ports:
+            - "4002:4002"
+        environment:
+            PORT: 4002
+            NODE_ENV: production
+            DATABASE_URL: "postgresql://postgres:7XaV9tF4tMP2shB0@db.zsjwavjshqtuiyibcjwc.supabase.co:5432/postgres"
+    user-services:
+        image: user-services
+        build: ./services/users
+        ports:
+            - "4001:4001"
+        environment:
+            PORT: 4001
+            MONGODB_URL: "mongodb+srv://shelamdp:LuJzcx8me1HW1g8Q@shelamdp.2rqaiul.mongodb.net/?retryWrites=true&w=majority"
+    orchestrator-services: 
+        image: orchestrator-services
+        build: ./orchestrator
+        ports: 
+            - "80:4000"
+        environment:
+            PORT: 4000
